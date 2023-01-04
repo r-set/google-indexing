@@ -3,7 +3,7 @@ import httplib2
 import json
 
 #add site url
-url = ''
+url = 'https://www.siteexample.com'
  
 #add json_key
 JSON_KEY_FILE = ""
