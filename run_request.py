@@ -4,7 +4,7 @@ from googleapiclient.http import BatchHttpRequest
 import httplib2
 import json
 
-#add url exampe 'https://site.com/index.html':'URL_UPDATED',
+#add url example 'https://site.com/index.html':'URL_UPDATED',
 requests = {
 
 
